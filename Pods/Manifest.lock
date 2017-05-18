@@ -1,0 +1,22 @@
+PODS:
+  - DevPod (0.0.1):
+    - YandexMobileAds/Dynamic
+  - YandexMobileAds/Dynamic (2.6.1):
+    - YandexMobileMetrica/Dynamic (< 3.0.0, >= 2.7.0)
+  - YandexMobileMetrica/Dynamic (2.8.0)
+
+DEPENDENCIES:
+  - DevPod (from `DevPod`)
+
+EXTERNAL SOURCES:
+  DevPod:
+    :path: DevPod
+
+SPEC CHECKSUMS:
+  DevPod: d11de73eb5566f4a29179711e63b46466ff13914
+  YandexMobileAds: b27aa4bcb2adb4190f79e63e1ddcade2a83ce785
+  YandexMobileMetrica: 71aff86c18d7900fece28be158471548c243c0d4
+
+PODFILE CHECKSUM: d17969a5d7e8cc0e00b11d80e4dbe9bf55d43370
+
+COCOAPODS: 1.2.1
